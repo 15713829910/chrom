@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "张三",
+        "school": "胡陈小学",
+        "className": "三年级1班",
+        "latestCardNo": "K202606002",
+        "cardList": [
+            {
+                "cardNo": "K202601001",
+                "status": "已挂失作废",
+                "createTime": "2026-01-10"
+            },
+            {
+                "cardNo": "K202606002",
+                "status": "当前有效",
+                "createTime": "2026-06-24"
+            }
+        ]
+    }
+]
